@@ -15,3 +15,8 @@ cp ./taha-zsh-theme.zsh-theme ~/.oh-my-zsh/themes
 nano ~/.zshrc
 ```
 4- Restart Your Terminal and Enjoy Using This Theme 😉💋
+
+***
+Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/tahadostifam/my-personal-zsh-theme/master/zsh-theme-screenshot.png)
