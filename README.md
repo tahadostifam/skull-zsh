@@ -19,4 +19,4 @@ nano ~/.zshrc
 ***
 Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/tahadostifam/my-personal-zsh-theme/master/zsh-theme-screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/tahadostifam/my-personal-zsh-theme/master/Screenshot_2021-06-18_12-20-52.png)
