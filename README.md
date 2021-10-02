@@ -1,20 +1,20 @@
 # My Personal Customized ZSH Theme
-1- First... You Need To install [ZSH](https://ohmyz.sh/) in your Linux <br>
+1- before any thing... you need to install [zsh](https://ohmyz.sh/) in your linux distro <br>
 ```bash
 sudo apt install zsh git curl
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-2- Then Copy 'taha-zsh-theme.zsh-theme' to '~/.oh-my-zsh/themes'
+2- in next step copy 'taha-zsh-theme.zsh-theme' to '~/.oh-my-zsh/themes'
 ```bash
 git clone https://github.com/tahadostifam/my-personal-zsh-theme.git
 cd ./my-personal-zsh-theme
 cp ./taha-zsh-theme.zsh-theme ~/.oh-my-zsh/themes
 ```
-3- After This... open '~/.zshrc' with your favourite editor and change 'ZSH_THEME' -> 'taha-zsh-theme'
+3- after this... open '~/.zshrc' with your favourite editor and change 'ZSH_THEME' -> 'taha-zsh-theme'
 ```bash
 nano ~/.zshrc
 ```
-4- Restart Your Terminal and Enjoy Using This Theme 😉💋
+4- restart your terminal and enjoy using this theme 😉💋
 
 ***
 Screenshot
