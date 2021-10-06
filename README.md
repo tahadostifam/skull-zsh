@@ -1,4 +1,7 @@
 # My Personal Customized ZSH Theme
+
+[https://github.com/unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+
 1- before any thing... you need to install [zsh](https://ohmyz.sh/) in your linux distro <br>
 ```bash
 sudo apt install zsh git curl
