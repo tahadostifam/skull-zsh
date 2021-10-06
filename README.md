@@ -1,4 +1,4 @@
-# My Personal Customized ZSH Theme
+# Skull zsh theme
 
 [https://github.com/unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
