@@ -2,21 +2,25 @@
 
 [https://github.com/unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
-### 1- Install [ZSH](https://ohmyz.sh/)   
+### 1- [Oh-my-zsh](https://ohmyz.sh/) Installing
 ```bash
+# Debian
 sudo apt install zsh git curl
+# Arch Linux
+sudo pacman -Sy zsh
+
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-### 2- Copy 'taha-zsh-theme.zsh-theme' to '~/.oh-my-zsh/themes'
+### 2- Move theme to '/home/$USER/.oh-my-zsh'
 ```bash
-git clone https://github.com/tahadostifam/my-personal-zsh-theme.git
-cd ./my-personal-zsh-theme
-cp ./taha-zsh-theme.zsh-theme ~/.oh-my-zsh/themes
+git clone https://github.com/tahadostifam/skull-zsh.git
+cd ./skull-zsh
+cp ./skull.zsh-theme /home/$USER/.oh-my-zsh/themes
 ```
-### 3- Change ZSH Theme
+### 3- Change default theme
 ```bash
 nano ~/.zshrc
-# 'ZSH_THEME' -> 'taha-zsh-theme'
+# change 'ZSH_THEME' value to 'skull'
 ```
 
 ***
