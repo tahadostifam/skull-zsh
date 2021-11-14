@@ -1,7 +1,5 @@
 # Skull zsh theme
 
-[https://github.com/unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
-
 ### 1- [Oh-my-zsh](https://ohmyz.sh/) Installing
 ```bash
 # Debian
@@ -26,4 +24,4 @@ nano ~/.zshrc
 ***
 Screenshot
 
-![skull zsh theme screenshot in manjaro-linux](https://github.com/tahadostifam/tahadostifam/raw/main/desktop10.png)
+![skull zsh theme screenshot in manjaro-linux](https://github.com/screenfetch/tahadostifam/raw/main/desktop10.png)
