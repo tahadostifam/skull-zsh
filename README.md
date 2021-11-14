@@ -24,4 +24,4 @@ nano ~/.zshrc
 ***
 Screenshot
 
-![skull zsh theme screenshot in manjaro-linux](https://github.com/screenfetch/tahadostifam/raw/main/desktop10.png)
+![skull zsh theme screenshot in manjaro-linux](https://github.com/tahadostifam/screenfetch/raw/main/desktop10.png)
