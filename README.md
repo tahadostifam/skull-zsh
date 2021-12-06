@@ -1,5 +1,7 @@
 # Skull zsh theme
 
+![cover image](https://tahadostifam.github.io/server/skull-zsh-cover.png)
+
 ### 1- [Oh-my-zsh](https://ohmyz.sh/) Installing
 ```bash
 # Debian
