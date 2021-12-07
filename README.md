@@ -2,6 +2,8 @@
 
 ![cover image](https://tahadostifam.github.io/server/skull-zsh-cover.png)
 
+https://github.com/unixorn/awesome-zsh-plugins
+
 ### 1- [Oh-my-zsh](https://ohmyz.sh/) Installing
 ```bash
 # Debian
