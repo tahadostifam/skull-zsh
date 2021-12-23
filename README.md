@@ -4,28 +4,28 @@
 
 https://github.com/unixorn/awesome-zsh-plugins
 
-### 1- [Oh-my-zsh](https://ohmyz.sh/) Installing
+### Oh-my-zsh Installation
 ```bash
 # Debian
 sudo apt install zsh git curl
 # Arch Linux
 sudo pacman -Sy zsh
+# OpenSuse
+sudo zypper in zsh
 
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-### 2- Move theme to '/home/$USER/.oh-my-zsh'
+## Adding Skull theme
+#### AutoInstall Bash Script
+```bash 
+sh -c "$(curl -fsSL https://github.com/tahadostifam/skull-zsh/raw/master/auto-install.bash)"
+```
+
+#### Manually Installation
 ```bash
 git clone https://github.com/tahadostifam/skull-zsh.git
 cd ./skull-zsh
 cp ./skull.zsh-theme /home/$USER/.oh-my-zsh/themes
+nano ~/.zshrc # 'ZSH_THEME' -> 'skull'
 ```
-### 3- Change default theme
-```bash
-nano ~/.zshrc
-# change 'ZSH_THEME' value to 'skull'
-```
-
 ***
-Screenshot
-
-![skull zsh theme screenshot in manjaro-linux](https://github.com/tahadostifam/screenfetch/raw/main/desktop10.png)
