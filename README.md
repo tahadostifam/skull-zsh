@@ -1,6 +1,6 @@
 # Skull zsh theme
 
-![cover image](https://tahadostifam.github.io/server/skull-zsh-cover.png)
+![cover image](https://raw.githubusercontent.com/tahadostifam/screenfetch/main/desktop19.png)
 
 https://github.com/unixorn/awesome-zsh-plugins
 
