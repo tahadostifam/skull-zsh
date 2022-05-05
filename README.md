@@ -4,24 +4,12 @@
 
 https://github.com/unixorn/awesome-zsh-plugins
 
-### Oh-my-zsh Installation
-```bash
-# Debian
-sudo apt install zsh git curl
-# Arch Linux
-sudo pacman -Sy zsh
-# OpenSuse
-sudo zypper in zsh
-
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-## Adding Skull theme
-#### AutoInstall Bash Script
+#### Install 
 ```bash 
 sh -c "$(curl -fsSL https://github.com/tahadostifam/skull-zsh/raw/master/auto-install.bash)"
 ```
 
-#### Manually Installation
+#### Manually Install
 ```bash
 git clone https://github.com/tahadostifam/skull-zsh.git
 cd ./skull-zsh
